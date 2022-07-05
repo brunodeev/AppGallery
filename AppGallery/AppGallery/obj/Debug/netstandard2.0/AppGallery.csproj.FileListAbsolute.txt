@@ -17,3 +17,5 @@ C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Pa
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginaDeNavegacao\Conteudo02.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginaDeNavegacao\Conteudo03.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginaDeNavegacao\PaginaInserida.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\Modal\Conteudo01.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\Modal\PaginaDeModal.xaml.g.cs

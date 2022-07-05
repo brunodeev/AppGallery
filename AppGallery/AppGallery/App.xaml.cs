@@ -9,12 +9,13 @@ namespace AppGallery
         public App()
         {
             InitializeComponent();
-
+            /*
             var pagina = new NavigationPage
                 (
                     new XamarinForms.Paginas.PaginaDeNavegacao.Conteudo01()
                 );
-            MainPage = pagina;
+            */
+            MainPage = new XamarinForms.Paginas.Modal.Conteudo01();
         }
 
         protected override void OnStart()
