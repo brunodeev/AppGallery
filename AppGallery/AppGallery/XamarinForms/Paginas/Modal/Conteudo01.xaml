@@ -8,7 +8,14 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <Button Text="Push Modal Async - Abrir Modal" Clicked="AbrirModal" />
+            <Button Text="Push Modal Async - Abrir Modal" 
+                    Clicked="AbrirModal" 
+                    CornerRadius="15"
+                    Margin="25" 
+                    Padding="20"
+                    BackgroundColor="RoyalBlue" 
+                    TextColor="#ffff"
+                    FontAttributes="Bold"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
