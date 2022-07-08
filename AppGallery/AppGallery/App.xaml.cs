@@ -10,7 +10,7 @@ namespace AppGallery
         {
             InitializeComponent();
             
-            MainPage = new XamarinForms.Paginas.PaginaDeCarrossel.Carrossel();
+            MainPage = new XamarinForms.Paginas.PaginaDeAbas.Abas();
         }
 
         protected override void OnStart()
