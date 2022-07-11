@@ -2,9 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
-    <SelectedDevice>nexus_5_-_api_30</SelectedDevice>
+    <SelectedDevice>pixel_3</SelectedDevice>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <ActiveDebugProfile>nexus_5_-_api_30</ActiveDebugProfile>
-    <DefaultDevice>nexus_5_-_api_30</DefaultDevice>
+    <ActiveDebugProfile>pixel_3</ActiveDebugProfile>
+    <DefaultDevice>pixel_3</DefaultDevice>
   </PropertyGroup>
 </Project>
