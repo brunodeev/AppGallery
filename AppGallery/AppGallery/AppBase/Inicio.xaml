@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             Title="Página 01"
-             x:Class="AppGallery.XamarinForms.Paginas.PaginaDeMenuLateral.Conteudo01">
+             x:Class="AppGallery.AppBase.Inicio">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Página 01"
+            <Label Text="Bem vindo à primeira página do app!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Button Text="Abrir Menu" Clicked="AbrirMenu"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
