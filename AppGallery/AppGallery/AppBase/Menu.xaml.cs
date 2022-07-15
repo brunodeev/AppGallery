@@ -52,5 +52,17 @@ namespace AppGallery.AppBase
             ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Paginas.Modal.Conteudo01();
             ((FlyoutPage)App.Current.MainPage).IsPresented = false;
         }
+
+        private void AbrirStackLayout(object sender, EventArgs e)
+        {
+            ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Layouts.Stack_Layout.Stack();
+            ((FlyoutPage)App.Current.MainPage).IsPresented = false;
+        }
+
+        private void AbrirGrid(object sender, EventArgs e)
+        {
+            ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Layouts.Grid.Grid();
+            ((FlyoutPage)App.Current.MainPage).IsPresented = false;
+        }
     }
 }

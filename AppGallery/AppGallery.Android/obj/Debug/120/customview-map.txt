@@ -34,8 +34,6 @@ item;obj\Debug\120\res\drawable\splashscreen.xml
 item;obj\Debug\120\res\values\styles.xml
 layer-list;obj\Debug\120\res\drawable\splashscreen.xml
 LinearLayout;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\layout\bottomtablayout.xml
-path;obj\Debug\120\res\drawable\casa_24.xml
-path;obj\Debug\120\res\drawable\definicoes_24.xml
 paths;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\values\attrs.xml
 resources;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\values\strings.xml
@@ -53,7 +51,5 @@ translate;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl
 translate;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\anim\enterfromright.xml
 translate;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\anim\exittoleft.xml
 translate;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\anim\exittoright.xml
-vector;obj\Debug\120\res\drawable\casa_24.xml
-vector;obj\Debug\120\res\drawable\definicoes_24.xml
 xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\layout\rootlayout.xml
 xamarin.forms.platform.android.ShellFlyoutLayout;C:\Dev\AppGallery\AppGallery\AppGallery.Android\obj\Debug\120\lp\54\jl\res\layout\flyoutcontent.xml

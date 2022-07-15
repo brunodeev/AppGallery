@@ -6,12 +6,17 @@
     <FlyoutPage.Flyout>
         <ContentPage Title="Menu">
             <StackLayout>
+                <Label Text="Páginas"/>
                 <Button Text="ContentPage" Clicked="AbrirContentPage"/>
                 <Button Text="NavigationPage" Clicked="AbrirNavigationPage"/>
                 <Button Text="CarouselPage" Clicked="AbrirCarouselPage"/>
                 <Button Text="TabbedPage" Clicked="AbrirTabbedPage"/>
                 <Button Text="FlyoutPage" Clicked="AbrirFlyoutPage"/>
                 <Button Text="ModalPage" Clicked="AbrirModalPage"/>
+
+                <Label Text="Layouts"/>
+                <Button Text="StackLayout" Clicked="AbrirGrid" />
+                <Button Text="Grid" Clicked="AbrirStackLayout" />
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v12.0": {
+    "MonoAndroid,Version=v11.0": {
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -3165,7 +3165,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v12.0": [
+    "MonoAndroid,Version=v11.0": [
       "AppGallery >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
@@ -3194,14 +3194,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid12.0"
+        "monoandroid11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid12.0": {
+        "monoandroid11.0": {
           "projectReferences": {
             "C:\\Dev\\AppGallery\\AppGallery\\AppGallery\\AppGallery.csproj": {
               "projectPath": "C:\\Dev\\AppGallery\\AppGallery\\AppGallery\\AppGallery.csproj"
@@ -3211,7 +3211,7 @@
       }
     },
     "frameworks": {
-      "monoandroid12.0": {
+      "monoandroid11.0": {
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",

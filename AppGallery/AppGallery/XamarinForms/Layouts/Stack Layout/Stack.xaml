@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.XamarinForms.Layouts.Stack_Layout.Stack">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="10" BackgroundColor="#707070" VerticalOptions="FillAndExpand">
+                <Label Text="Linha 1" Padding="15" BackgroundColor="#ffff" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                <Label Text="Linha 1" HorizontalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Padding="10" BackgroundColor="#A0A0A0" Orientation="Horizontal">
+                <Label Text="Coluna 1" HorizontalOptions="CenterAndExpand" />
+                <Label Text="Coluna 1" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
