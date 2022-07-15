@@ -64,5 +64,11 @@ namespace AppGallery.AppBase
             ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Layouts.Grid.Grid();
             ((FlyoutPage)App.Current.MainPage).IsPresented = false;
         }
+
+        private void AbrirAbsoluteLayout(object sender, EventArgs e)
+        {
+            ((FlyoutPage)App.Current.MainPage).Detail = new XamarinForms.Layouts.AbsoluteLayout.Absolute();
+            ((FlyoutPage)App.Current.MainPage).IsPresented = false;
+        }
     }
 }

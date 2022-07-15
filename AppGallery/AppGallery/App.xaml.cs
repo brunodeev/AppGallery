@@ -10,7 +10,7 @@ namespace AppGallery
         {
             InitializeComponent();
 
-            MainPage = new XamarinForms.Layouts.Grid.Grid();
+            MainPage = new XamarinForms.Layouts.AbsoluteLayout.Absolute();
         }
 
         protected override void OnStart()

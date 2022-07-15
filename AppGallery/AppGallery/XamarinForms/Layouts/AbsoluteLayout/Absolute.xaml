@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.XamarinForms.Layouts.AbsoluteLayout.Absolute">
+    <ContentPage.Content>
+        <AbsoluteLayout BackgroundColor="AliceBlue" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <!-- Desenho superior esquerdo -->
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="0, 0, 100, 20" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="0, 0, 20, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- Desenho superior direito -->
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="1, 0, 100, 20" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="1, 0, 20, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- Desenho inferior esquerdo -->
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="0, 1, 100, 20" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="0, 1, 20, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- Desenho inferior esquerdo -->
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="1, 1, 100, 20" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="1, 1, 20, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <BoxView BackgroundColor="Gray" AbsoluteLayout.LayoutBounds="0.5, 0.5, 0.5, 0.5" AbsoluteLayout.LayoutFlags="All" />
+
+            <Label Text="Absolute Layout" TextColor="#ffff" BackgroundColor="#000" AbsoluteLayout.LayoutBounds="0.5, 0.5, 0.2, 0.2" AbsoluteLayout.LayoutFlags="All" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+
+            <!--
+            <Label Text="Olá Mundo!" AbsoluteLayout.LayoutBounds="100, 200, 100, 50" AbsoluteLayout.LayoutFlags="None"/>
+            <BoxView BackgroundColor="DeepSkyBlue" AbsoluteLayout.LayoutBounds="0.5, 0.5, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional" /> -->
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -17,6 +17,8 @@
                 <Label Text="Layouts"/>
                 <Button Text="StackLayout" Clicked="AbrirGrid" />
                 <Button Text="Grid" Clicked="AbrirStackLayout" />
+                <Button Text="AbsoluteLayout" Clicked="AbrirAbsoluteLayout" />
+
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
