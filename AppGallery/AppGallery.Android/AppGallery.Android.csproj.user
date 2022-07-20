@@ -2,9 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
-    <SelectedDevice>pixel_3</SelectedDevice>
+    <SelectedDevice>pixel</SelectedDevice>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <ActiveDebugProfile>pixel_3</ActiveDebugProfile>
-    <DefaultDevice>pixel_3</DefaultDevice>
+    <ActiveDebugProfile>pixel</ActiveDebugProfile>
+    <DefaultDevice>pixel</DefaultDevice>
   </PropertyGroup>
 </Project>

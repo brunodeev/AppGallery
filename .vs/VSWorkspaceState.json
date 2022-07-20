@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AppGallery",
+    "\\AppGallery\\AppGallery",
+    "\\AppGallery\\AppGallery.Android",
+    "\\AppGallery\\AppGallery\\XamarinForms",
+    "\\AppGallery\\AppGallery\\XamarinForms\\Layouts",
+    "\\AppGallery\\AppGallery\\XamarinForms\\Layouts\\AbsoluteLayout"
   ],
-  "SelectedNode": "\\AppGallery.sln",
+  "SelectedNode": "\\AppGallery",
   "PreviewInSolutionExplorer": false
 }

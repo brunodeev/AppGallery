@@ -33,3 +33,4 @@ C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppBase\Menu.xa
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Layouts\Stack Layout\Stack.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Layouts\Grid\Grid.xaml.g.cs
 C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Layouts\AbsoluteLayout\Absolute.xaml.g.cs
+C:\Dev\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Layouts\RelativeLayout\Relative.xaml.g.cs
